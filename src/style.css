@@ -59,4 +59,8 @@ h2{
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
 }
-ol{list-style-position: inside;}
+ol{
+    list-style-position: inside;
+    margin: 10px;
+    padding: 10px;
+}
