@@ -8,6 +8,16 @@ const requiem = {
         Recordare : ["Jesu", "Pie"],
         Confutatis : "Maledictus",
         Lacrimosa : ["Dies", "Illa"],
-    }
+    },
+    Offertorium : {
+        Domine : ["Jesu", "Christe"],
+        Versus : ["Hostias", "Preces"]
+    },
+    Sanctus : {
+        Sanctus : ["Dominus", "Deus"],
+        Benedictus : ""
+    },
+    Agnus : "Dei",
+    Communio : ["Lux", "Aeterna"]
 }
 console.log(requiem);
