@@ -1,24 +1,51 @@
 {
-    "Requiem" : {
-        "Introitus" : ["Requiem", "Aeternam"],
-        "Kyrie" : "Eleison",
-        "Sequentia" : {
-            "Dies" : "Irae",
-            "Tuba" : "Mirum",
-            "Rex" : ["Tremendae", "Majestatis"],
-            "Recordare" : ["Jesu", "Pie"],
-            "Confutatis" : "Maledictus",
-            "Lacrimosa" : ["Dies", "Illa"]
+    "Requiem": {
+        "Introitus": [
+            "Requiem",
+            "Aeternam"
+        ],
+        "Kyrie": "Eleison",
+        "Sequentia": {
+            "Dies": "Irae",
+            "Tuba": "Mirum",
+            "Rex": [
+                "Tremendae",
+                "Majestatis"
+            ],
+            "Recordare": [
+                "Jesu",
+                "Pie"
+            ],
+            "Confutatis": "Maledictus",
+            "Lacrimosa": [
+                "Dies",
+                "Illa"
+            ]
         },
-        "Offertorium" : {
-            "Domine" : ["Jesu", "Christe"],
-            "Versus" : ["Hostias", "Preces"]
+        "Offertorium": {
+            "Domine": [
+                "Jesu",
+                "Christe"
+            ],
+            "Versus": [
+                "Hostias",
+                "Preces"
+            ]
         },
-        "Sanctus" : {
-            "Sanctus" : ["Dominus", "Deus"],
-            "Benedictus" : ""
+        "Sanctus": {
+            "Sanctus": [
+                "Dominus",
+                "Deus"
+            ],
+            "Benedictus": ""
         },
-        "Agnus" : "Dei",
-        "Communio" : ["Lux", "Aeterna"]
+        "Agnus": "Dei",
+        "Communio": [
+            "Lux",
+            "Aeterna"
+        ]
+    },
+    "dependencies": {
+        "bootstrap": "^5.3.6"
     }
 }
