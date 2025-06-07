@@ -11,9 +11,9 @@
     <header>
         <h1>Lorem, ipsum.</h1>
         <nav>
-            <a href="index.html">Inicio</a>
-            <a href="blog.html">About Us</a>
-            <a href="app.html">Contact Us</a>
+            <a href="index.php">Inicio</a>
+            <a href="blog.php">About Us</a>
+            <a href="app.php">Contact Us</a>
         </nav>
     </header>
     <div>
@@ -42,6 +42,6 @@
         <a href="http://youtube.com">Youtube</a>
         <a href="http://Gmail.com">Gmail</a>
     </footer>
-    <script src="script.js"></script>
+    <script src="script.php"></script>
 </body>
 </htmt>

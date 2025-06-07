@@ -10,9 +10,9 @@
     <header>
         <h1>Lorem, ipsum.</h1>
         <nav>
-            <a href="index.html">Inicio</a>
-            <a href="blog.html">About Us</a>
-            <a href="app.html">Contact Us</a>
+            <a href="index.php">Inicio</a>
+            <a href="blog.php">About Us</a>
+            <a href="app.php">Contact Us</a>
         </nav>
     </header>
     <div>
@@ -49,6 +49,6 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi sint enim sunt alias? Nam iure, laboriosam, voluptatibus quo officia asperiores dolorum repudiandae autem similique quasi aut suscipit aperiam at quae!</p>
         </article>
     </div>
-    <script src="script.js"></script>
+    <script src="script.php"></script>
 </body>
 </html>
