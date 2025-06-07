@@ -11,7 +11,7 @@
     <header>
         <h1>Lorem, ipsum.</h1>
         <nav>
-            <a href="index.php">Inicio</a>
+            <a href="#">Inicio</a>
             <a href="blog.php">About Us</a>
             <a href="app.php">Contact Us</a>
         </nav>
