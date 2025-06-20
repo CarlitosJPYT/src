@@ -1,0 +1,20 @@
+{
+    "Fugue" : {
+        "Exposicion" : {
+            "Tema" : "T",
+            "Contratema" : ["CT1", "CT2"],
+            "Entrada_Complementaria" : "EC"
+        },
+        "Desarrollo" : {
+            "Tema" : "T",
+            "Contratema" : ["CT1", "CT2"],
+            "Entrada" : ["Complementaria", "EC"]
+        },
+        "Re_Exposicion" : {
+            "Tema" : "T",
+            "Contratema" : ["CT1", "CT2"],
+            "Entrada" : ["Complementaria", "EC"]
+        },
+        "Coda" : "C"
+    }
+}

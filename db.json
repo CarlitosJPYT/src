@@ -1,22 +1,24 @@
 {
-    "Introitus" : ["Requiem", "Aeternam"],
-    "Kyrie" : "Eleison",
-    "Sequentia" : {
-        "Dies" : "Irae",
-        "Tuba" : "Mirum",
-        "Rex" : ["Tremendae", "Majestatis"],
-        "Recordare" : ["Jesu", "Pie"],
-        "Confutatis" : "Maledictus",
-        "Lacrimosa" : ["Dies", "Illa"]
-    },
-    "Offertorium" : {
-        "Domine" : ["Jesu", "Christe"],
-        "Versus" : ["Hostias", "Preces"]
-    },
-    "Sanctus" : {
-        "Sanctus" : ["Dominus", "Deus"],
-        "Benedictus" : ""
-    },
-    "Agnus" : "Dei",
-    "Communio" : ["Lux", "Aeterna"]
+    "Requiem" : {
+        "Introitus" : ["Requiem", "Aeternam"],
+        "Kyrie" : "Eleison",
+        "Sequentia" : {
+            "Dies" : "Irae",
+            "Tuba" : "Mirum",
+            "Rex" : ["Tremendae", "Majestatis"],
+            "Recordare" : ["Jesu", "Pie"],
+            "Confutatis" : "Maledictus",
+            "Lacrimosa" : ["Dies", "Illa"]
+        },
+        "Offertorium" : {
+            "Domine" : ["Jesu", "Christe"],
+            "Versus" : ["Hostias", "Preces"]
+        },
+        "Sanctus" : {
+            "Sanctus" : ["Dominus", "Deus"],
+            "Benedictus" : ""
+        },
+        "Agnus" : "Dei",
+        "Communio" : ["Lux", "Aeterna"]
+    }
 }
